@@ -1,4 +1,4 @@
-package com.example.dice_app
+package com.yudisaqsha.diceapp
 
 import io.flutter.embedding.android.FlutterActivity
 
